@@ -6,9 +6,6 @@ const Home: NextPage = () => {
   const router = useRouter()
 
   function routeToAbout () {
-    console.log('hi')
-    router.push('/about')
-    console.log(router)
   }
 
 
