@@ -1,0 +1,4 @@
+.button {
+    color:  red;
+    @apply text-5xl;
+} 
