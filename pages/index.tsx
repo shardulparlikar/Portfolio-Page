@@ -9,6 +9,7 @@ const Home: NextPage = () => {
     console.log('hi')
     router.push('/about')
     console.log(router)
+    console.log('hi')
   }
 
 
